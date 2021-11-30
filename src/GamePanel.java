@@ -10,9 +10,7 @@ import java.util.Random;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * Created by Armin on 6/25/2016.
- */
+
 public class GamePanel extends JLayeredPane implements MouseMotionListener {
 
     Image bgImage;
